@@ -1,4 +1,4 @@
-# Tailwind Webpack Starter Setup
+# Tailwind Webpack Workflow
 This is a super simple Webpack setup to be used with TailwindCSS version 2.x
 
 ## How To Use It
